@@ -59,4 +59,5 @@
 - To fetch data from remote
   - git fetch ***[REMORT SHORT NAME]***
 - To pull data from remote (GIt fetch only downloads data to local repo)
-  - git pull 
+  - git pull
+ADDED IN MASTER
